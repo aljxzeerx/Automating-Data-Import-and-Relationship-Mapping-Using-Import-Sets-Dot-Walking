@@ -6,7 +6,10 @@
 
 ## About us
 
-### I'm Al Jazeera, Team Leader (TL), and these are my teammates: ###S Karthika ###M Hajira Banu ###S Naveen Kumar
+### I'm Al Jazeera, Team Leader (TL), and these are my teammates: 
+### 1. S Karthika 
+### 2. M Hajira Banu 
+### 3. S Naveen Kumar
 
 ## Project Description
 
